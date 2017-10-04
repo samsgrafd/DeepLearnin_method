@@ -26,7 +26,7 @@ import subprocess
 
 
 
-path = 'neg1.txt'
+path = 'yourtext.txt'
 text = open(path).read().lower()
 print('corpus length:', len(text))
 
